@@ -4,45 +4,85 @@ title: Privacy Policy
 ---
 
 # Privacy Policy
-**Effective Date:** 25 Jan 2025  
 
-Welcome to Plavo! We are committed to safeguarding your privacy and personal data. This Privacy Policy explains how we collect, use, protect, and share your information when you use our trip planning app (the “App”). By using the App, you consent to the practices outlined in this policy. Please take a moment to understand our approach to privacy.  
+**Effective Date:** 2 April 2025
 
-## Our Privacy Principles  
-At Plavo, we adhere to these fundamental privacy principles:  
-- **Minimal Data:** We collect only the data necessary to provide the App’s services.  
-- **Transparency:** We’re open about how we handle your data.  
-- **Security:** We use industry-standard measures to protect your information.  
-- **User Control:** You have control over your data and preferences.  
-- **Continuous Improvement:** We regularly review and enhance our data protection practices.  
+Welcome to Plavo! We are committed to safeguarding your privacy and personal data. This Privacy Policy explains how we collect, use, protect, and share your information when you use our travel companion app (the “App”). By using the App, you consent to the practices outlined in this policy. Please take a moment to understand our approach to privacy.
 
-## Information We Collect:
-- **Personal Information:** When you sign up for our App, we may collect personal information such as your name, email address, and other contact details. This information is necessary to create and maintain your account.  
-- **Travel Preferences:** To generate personalized itineraries, we collect information about your travel preferences, interests, and budget. This data helps our AI algorithms curate customized travel plans tailored to your needs.  
-- **Device Information:** When you access our App, we may automatically collect certain technical information about your device, including your IP address, device type, operating system, and browser details. This data helps us improve the App’s performance and user experience.  
+## Our Privacy Principles
 
-## How We Use Your Information:  
-- **Personalization:** We use your personal and travel-related information to create customized itineraries and recommendations tailored to your preferences.  
-- **Communication:** We may use your email address to send you updates, notifications, and relevant information about our services, new features, or special offers. You can opt out of marketing communications at any time.  
-- **Improvement of Services:** Your data is instrumental in enhancing our App’s functionality, user interface, and overall performance. We use aggregated data for analytical purposes to understand user behavior and trends.  
-- **Customer Support:** If you reach out to our customer support team, we may use your information to assist you with any inquiries or issues you may have.  
+At Plavo, we adhere to these fundamental privacy principles:
 
-## Data Security:  
-We employ robust security measures to safeguard your personal information from unauthorized access, disclosure, alteration, or destruction. We use industry-standard encryption protocols to protect data transmitted between your device and our servers.  
+- **Minimal Data:** We collect only the data necessary to provide the App’s services.
+- **Transparency:** We’re open about how we handle your data.
+- **Security:** We use industry-standard measures to protect your information.
+- **User Control:** You have control over your data and preferences.
+- **Continuous Improvement:** We regularly review and enhance our data protection practices.
 
-## Third-Party Services:  
-While using our App, you may encounter links to third-party websites or services. Please note that we do not control the privacy practices of these external entities. We recommend reviewing the privacy policies of any third-party sites you visit.  
+## Information We Collect
 
-## Data Retention:  
-We will retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, or as required by law.  
+- **Personal Information:** When you sign up, we collect personal information such as your name, email address, contact details, and account credentials necessary to create and maintain your account.
+- **Travel Preferences:** To generate personalized itineraries, we collect information about your travel preferences, interests, budget, and historical travel data. This helps our AI curate customized travel plans tailored specifically to you.
+- **Uploaded Content:** Our App allows you to upload photos, files, notes, and other materials related to your trips. We securely store this content to help you organize, track, and enhance your travel experiences.
+- **Device and Usage Information:** We automatically collect technical information about your device, including IP address, device type, operating system, browser details, and usage patterns. This information helps us improve the App’s performance, security, and user experience.
 
-## Children’s Privacy:  
-Our App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we will take appropriate action to remove the information from our systems.  
+We process your personal data on the basis of your consent, contractual necessity, or our legitimate interests, depending on the context and purpose of the data processing.
 
-## Changes to the Privacy Policy:  
-We may update this Privacy Policy from time to time to reflect changes in our data practices. Any revisions will be effective immediately upon posting on this page, and we encourage you to review this Privacy Policy periodically.  
+## How We Use Your Information
 
-## Contact Us:  
-If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at [hello@goplavo.com](mailto:hello@goplavo.com).  
+- **Personalization:** Your personal information, preferences, and uploaded content are used to create personalized itineraries, travel plans, recommendations, and customized app experiences.
+- **Communication:** We may use your contact information to send updates, notifications, relevant information about services, new features, or special offers. You may opt out of marketing communications at any time.
+- **Service Improvement:** Your data helps us analyze user behavior, trends, and interactions to enhance functionality, usability, and performance.
+- **Customer Support:** Information you provide helps us respond effectively to your customer service requests and support needs.
+- **Security and Fraud Prevention:** We use your information to protect against fraud, unauthorized access, and other illegal activities.
 
-By continuing to use our App, you acknowledge that you have read and understood this Privacy Policy and consent to the collection, use, and processing of your personal information as described herein.  
+## Data Sharing and Disclosure
+
+We do not sell your personal data. However, we may share your information with:
+
+- **Service Providers:** Trusted third-party vendors who provide essential services, such as data hosting, cloud storage, analytics, and customer support, under strict confidentiality agreements.
+- **Legal Compliance:** If required by law, or to protect our rights, safety, and the safety of others, we may disclose your information in response to lawful requests by public authorities.
+- **Business Transfers:** In the event of a merger, acquisition, or asset sale, your personal data may be transferred, provided the recipient maintains a comparable level of privacy protection.
+
+## Data Security
+
+We implement robust security measures, including encryption protocols, secure servers, and strict access controls to safeguard your personal data from unauthorized access, disclosure, alteration, or destruction.
+
+## Data Retention
+
+We retain your personal data only as long as necessary to provide the services outlined in this Privacy Policy, comply with legal obligations, resolve disputes, and enforce agreements. You may request deletion of your data at any time, subject to any legal requirements we must fulfil.
+
+## Third-Party Links
+
+Our App may include links or integrations with third-party websites or services. We do not control these external entities' privacy practices and recommend reviewing their privacy policies independently.
+
+## Children's Privacy
+
+Our App is not intended for individuals under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided personal information, contact us immediately for its removal.
+
+## Your Rights and Choices
+
+You have rights over your personal data, including:
+
+- The right to access the personal data we hold about you.
+- The right to rectify inaccurate or incomplete data.
+- The right to request the deletion of your data.
+- The right to restrict or object to how your data is used.
+- The right to data portability, allowing you to obtain and reuse your personal data across different services.
+- The right to lodge a complaint with a data protection authority if you believe your rights under applicable data protection laws have been violated.
+
+You can manage your preferences within your account settings or contact us directly for assistance.
+
+## International Data Transfers
+
+Your personal data may be transferred to and processed in countries outside of your country of residence, including countries that may not have data protection laws equivalent to those in your jurisdiction. When we do so, we ensure appropriate safeguards are in place, such as Standard Contractual Clauses approved by the European Commission, to protect your data in accordance with this Privacy Policy and applicable laws.
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy periodically. All revisions will be effective upon posting, and we encourage you to review this policy regularly.
+
+## Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at [hello@goplavo.com](mailto:hello@goplavo.com).
+
+By continuing to use our App, you acknowledge that you have read and understood this Privacy Policy and consent to the collection, use, and processing of your personal data as described herein.
