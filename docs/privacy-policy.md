@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective Date:** 2 April 2025
+**Effective Date:** 30 May 2025
 
 Welcome to Plavo! We are committed to safeguarding your privacy and personal data. This Privacy Policy explains how we collect, use, protect, and share your information when you use our travel companion app (the “App”). By using the App, you consent to the practices outlined in this policy. Please take a moment to understand our approach to privacy.
 
@@ -25,13 +25,15 @@ At Plavo, we adhere to these fundamental privacy principles:
 - **Travel Preferences:** To generate personalized itineraries, we collect information about your travel preferences, interests, budget, and historical travel data. This helps our AI curate customized travel plans tailored specifically to you.
 - **Uploaded Content:** Our App allows you to upload photos, files, notes, and other materials related to your trips. We securely store this content to help you organize, track, and enhance your travel experiences.
 - **Device and Usage Information:** We automatically collect technical information about your device, including IP address, device type, operating system, browser details, and usage patterns. This information helps us improve the App’s performance, security, and user experience.
+- **Marketing Preferences & Consent:** We record your explicit consent when you opt in to marketing campaigns such as Plavo Pioneer.
 
 We process your personal data on the basis of your consent, contractual necessity, or our legitimate interests, depending on the context and purpose of the data processing.
 
 ## How We Use Your Information
 
 - **Personalization:** Your personal information, preferences, and uploaded content are used to create personalized itineraries, travel plans, recommendations, and customized app experiences.
-- **Communication:** We may use your contact information to send updates, notifications, relevant information about services, new features, or special offers. You may opt out of marketing communications at any time.
+- **Service Communications:** We may use your contact information to send you service-related notifications (e.g. password resets, booking confirmations).
+- **Marketing Communications:** When you opt in (for example, by joining our Plavo Pioneer waitlist), we’ll send you occasional promotional emails, early access invitations, feature announcements, special offers, and Plavo Pioneer news. You can withdraw consent at any time by clicking “unsubscribe” in any email.
 - **Service Improvement:** Your data helps us analyze user behavior, trends, and interactions to enhance functionality, usability, and performance.
 - **Customer Support:** Information you provide helps us respond effectively to your customer service requests and support needs.
 - **Security and Fraud Prevention:** We use your information to protect against fraud, unauthorized access, and other illegal activities.
