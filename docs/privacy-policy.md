@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective Date:** 2 April 2025
+**Effective Date:** 30 May 2025
 
 Welcome to Plavo! We are committed to safeguarding your privacy and personal data. This Privacy Policy explains how we collect, use, protect, and share your information when you use our travel companion app (the “App”). By using the App, you consent to the practices outlined in this policy. Please take a moment to understand our approach to privacy.
 
