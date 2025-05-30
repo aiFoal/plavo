@@ -16,7 +16,7 @@ Welcome to Plavo! These Terms and Conditions (“Terms”) govern your use of ou
 **User, you, your**: Any individual accessing or using the App.
 **User Content**: All content you upload, submit, post, or otherwise make available via the App, including photos, notes, files, and other materials.
 **Feedback**: Any suggestions, comments, or ideas you provide to Plavo regarding the App or its features.
-**Privacy Policy**: Our privacy policy, available [here](https://pages.goplavo.com/privacy-policy), which is incorporated by reference.
+**Privacy Policy**: Our privacy policy, available [here](privacy-policy.md), which is incorporated by reference.
 **Terms**: These Terms and Conditions, as may be modified from time to time.
 
 ## 2. Use of the App
