@@ -5,25 +5,34 @@ title: Terms and Conditions
 
 # Terms and Conditions
 
-**Effective Date:** 30 May 2025
+**Effective Date:** 31 May 2025
 
 Welcome to Plavo! These Terms and Conditions (“Terms”) govern your use of our travel companion app (the “App”). By accessing and using the App, you agree to be bound by these Terms. Please read this document carefully before using our services.
 
 ## 1. Definitions
 
 **App**: The Plavo travel companion mobile application and any related services.
+
 **Plavo, we, us, our**: Plavo Ltd., the provider of the App.
+
 **User, you, your**: Any individual accessing or using the App.
+
 **User Content**: All content you upload, submit, post, or otherwise make available via the App, including photos, notes, files, and other materials.
+
 **Feedback**: Any suggestions, comments, or ideas you provide to Plavo regarding the App or its features.
+
 **Privacy Policy**: Our privacy policy, available [here](privacy-policy.md), which is incorporated by reference.
+
 **Terms**: These Terms and Conditions, as may be modified from time to time.
 
 ## 2. Use of the App
 
 2.1. You must be at least 13 years old to use our App. If you are under 13, please do not access or use the App.
+
 2.2. You are solely responsible for maintaining the confidentiality of your account credentials and are liable for any activity that occurs under your account.
+
 2.3. You agree not to use the App for any unlawful, harmful, abusive, or unauthorised purposes, including but not limited to violating applicable laws, infringing intellectual property rights, or distributing illegal content.
+
 2.4. You must not interfere with or disrupt the App, servers, networks, or take any action that imposes unreasonable loads on our infrastructure. We reserve the right to limit or restrict your access to the App if we reasonably suspect misuse, fraud, or unauthorised activity, with or without prior notice. Use of automated systems or software (bots, crawlers, or scrapers) to access or interact with the App without prior written consent is strictly prohibited.
 
 ## 3. User Content
